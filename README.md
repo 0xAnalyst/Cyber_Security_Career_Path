@@ -1,7 +1,6 @@
-# Cyber_Security_Career_Path
-This repo contains only quality verified training material/courses/labs that helps you establish and advance cyber career
 
-<img width="1498" alt="Cyber Security Career Path V0 1" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/fb66d67c-8d7c-4c2d-bc5b-e771c97be5e9">
+
+
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
@@ -35,6 +34,7 @@ This repo contains only quality verified training material/courses/labs that hel
 
 <div align="center">
 <h3 align="center">Cyber Security Career Path</h3>
+    <img width="1498" alt="Cyber Security Career Path V0 1" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/fb66d67c-8d7c-4c2d-bc5b-e771c97be5e9">
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Report Bug</a>
     ·
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Request Feature</a>
