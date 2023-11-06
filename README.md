@@ -1,5 +1,8 @@
-# Cyber_Security_Career_Path
+<img width="1498" alt="Screenshot 2023-11-06 at 17 01 23" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/334cb1bd-9ea9-47f2-9c1e-3dc991a2f6b9"># Cyber_Security_Career_Path
 This repo contains only quality verified training material/courses/labs that helps you establish and advance cyber career
+
+<img width="1498" alt="Cyber Security Career Path V0 1" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/fb66d67c-8d7c-4c2d-bc5b-e771c97be5e9">
+
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
