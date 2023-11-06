@@ -34,7 +34,7 @@
 
 <div align="center">
 <h3 align="center">Cyber Security Career Path</h3>
-    <img width="1450" alt="Cyber Security Career Path V0 1" align="center" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/fb66d67c-8d7c-4c2d-bc5b-e771c97be5e9">
+   
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Report Bug</a>
     ·
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Request Feature</a>
