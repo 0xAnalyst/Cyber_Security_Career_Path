@@ -31,7 +31,7 @@ This repo contains only quality verified training material/courses/labs that hel
 
 
 <div align="center">
-<h3 align="center">Microsoft Defender ATP Hunting Queries</h3>
+<h3 align="center">Cyber Security Career Path</h3>
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Report Bug</a>
     ·
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Request Feature</a>
