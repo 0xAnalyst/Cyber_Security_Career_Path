@@ -29,8 +29,6 @@
 
 <div align="center">
 <h3 align="center">Cyber Security Career Path</h3>
-    <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Report Bug</a>
-    ·
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Request a training to be added</a>
   </p>
 </div>
