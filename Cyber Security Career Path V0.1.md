@@ -26,12 +26,12 @@
 #### Must-read resources
 - [Conti Pentester Guide](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak)
 - [hacktricks](https://book.hacktricks.xyz/welcome/readme)
-- [Attacking and Defending AD](https://www.alteredsecurity.com/adlab)
 - [Attacking Active Directory](https://zer1t0.gitlab.io/posts/attacking_ad/) 
 
 #### Trainings
 - [RedTeam OPS](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
 - [Practical Network Penetration Tester](https://certifications.tcm-sec.com/pnpt/)
+- [Attacking and Defending AD](https://www.alteredsecurity.com/adlab)
 
 ### Malware Development
 - [Sektor7 Courses](https://institute.sektor7.net/)
