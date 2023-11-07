@@ -1,6 +1,6 @@
 # Cyber Security Career Path
 
-## Penetration Testing and Exploit Dev
+## Red Team, Penetration Testing and Exploit Dev
 
 ### Cloud Penetration Testing
 - Methodologies
@@ -23,68 +23,76 @@
 - [Real World Bug Hunting](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG/ref=sr_1_1?keywords=Real-World-Bug-Hunting-Field-Hacking-ebook&qid=1697571168&sr=8-1)
 
 ### Penetration Testing
+#### Must-read resources
 - [Conti Pentester Guide](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak)
-- [Practical Network Penetration Tester](https://certifications.tcm-sec.com/pnpt/)
 - [hacktricks](https://book.hacktricks.xyz/welcome/readme)
 - [Attacking and Defending AD](https://www.alteredsecurity.com/adlab)
-- [RedTeam OPS](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
 - [Attacking Active Directory](https://zer1t0.gitlab.io/posts/attacking_ad/) 
+
+#### Trainings
+- [RedTeam OPS](https://training.zeropointsecurity.co.uk/courses/red-team-ops)
+- [Practical Network Penetration Tester](https://certifications.tcm-sec.com/pnpt/)
 
 ### Malware Development
 - [Sektor7 Courses](https://institute.sektor7.net/)
 - [CodeMachine Course](https://codemachine.com/index.html)
 - [Maldev Courses](https://maldevacademy.com/)
 
-## Incident Response
+## Blue Team and Security Operations
+### Overall
+- [Security Blue Team](https://www.securityblue.team/training)
+- [TryHackMe Cyber Defense](https://tryhackme.com/path/outline/blueteam)
+- [Certified CyberDefender](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/)
+- [Essential Basics](https://blueteamcc.j2h2.io/)
+- Linda BlueTeam [Training](https://www.youtube.com/watch?v=Bt5fh3wQUAQ&list=PLBf0hzazHTGNcIS_dHjM2NgNUFMW1EZFx&index=1) Series 
+- [MITRE MAD](https://mad-certified.mitre-engenuity.org/group/416659) 
+- [Network Defence Courses](https://www.networkdefense.co/courses/)
 
-### [The DFIR Report](https://thedfirreport.com/)
+### DFIR - Digital Forensics & Incident Response
+#### Must-read resources
+- [The DFIR Report](https://thedfirreport.com/)
+- [Awesome List](https://github.com/meirwah/awesome-incident-response)
+- [IRM playbooks](https://www.incidentresponse.org/playbooks/)
 
-### [13Cubed](https://www.youtube.com/@13Cubed)
+#### Trainings
+- [13Cubed](https://www.youtube.com/@13Cubed)
+- [SamClass](https://samsclass.info/152/FSIR2022-CCC.htm)
+- [TCM Practical Windows Forensics](https://academy.tcm-sec.com/p/practical-windows-forensics)
 
-### [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
+### Detection Engineering
+- [SpecterOps Adversary Tactics Detection](https://specterops.io/training/adversary-tactics-detection/)
 
-### [Awesome List](https://github.com/meirwah/awesome-incident-response)
-
-### [IRM playbooks](https://www.incidentresponse.org/playbooks/)
-
-### [SamClass](https://samsclass.info/152/FSIR2022-CCC.htm)
-
-## SOC and Blue Teaming
-
-### [Security Blue Team](https://www.securityblue.team/training)
-
-### [TryHackMe Cyber Defense](https://tryhackme.com/path/outline/blueteam)
-
-### [Certified CyberDefender](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/)
-
-### [Essential Basics](https://blueteamcc.j2h2.io/)
-
-### Linda BlueTeam [Training](https://www.youtube.com/watch?v=Bt5fh3wQUAQ&list=PLBf0hzazHTGNcIS_dHjM2NgNUFMW1EZFx&index=1) Series 
-
-### [MITRE MAD](https://mad-certified.mitre-engenuity.org/group/416659) 
-
-### [Network Defence Courses](https://www.networkdefense.co/courses/)
+### Malware Analysis
+- [Zero2Auto](https://courses.zero2auto.com/)
 
 ## Cloud Security
-
 ### Azure
 - [Attack And Defense O365](https://training.xintra.org/attacking-and-defending-azure-m365)
 
 ### GCP
 
 ### AWS
+- [AWS Academy](https://aws.amazon.com/training/awsacademy/)
 
-## Detection Engineering
-
-## Labs 
-
-### BlueTeaming
-- [BlueTeamOnline](https://blueteamlabs.online/)
+## Labs
+### Blue Team
+#### Overall
+- [BlueTeamLabsOnline](https://blueteamlabs.online/)
 - [TryHackme](https://tryhackme.com/)
 - [Let's Defend](https://letsdefend.io/)
 - [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/)
 
-### Red Team
-
-### DFIR
+#### DFIR-specific
 - [wrccdc](https://dfir.wrccdc.org/dfir/)
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
+- [AceResponder](https://www.aceresponder.com/)
+
+### Red Team
+#### Overall
+- [TryHackme](https://tryhackme.com/)
+
+# Template
+## Topic (Blue Team, Cloud, Labs, etc.)
+### Subtopic (Cloud/Azure, Labs/Red Team, Pentest/Malware Dev, etc.)
+#### OPTIONAL sub-subtopic (Labs/Red Team/Overall, Labs/Blue Team/DFIR-specific, etc.)
+- [Name_of_training_with_hyperlink](https://example.com/)
