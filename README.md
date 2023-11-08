@@ -31,6 +31,8 @@
 <h3 align="center">Cyber Security Career Path</h3>
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Request a training to be added</a>
   </p>
+    <img width="1285" alt="Cyber Security Career Path" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/7e697e5c-e2b9-465b-bf24-8cada7a6b461">
+
 </div>
 
 
