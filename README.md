@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repo contains only quality verified training material/courses/labs that helps you establish and advance cyber career.
+This repo contains only quality verified training material/courses/labs that helps you establish and advance your cyber career.
 ## Roadmap
 
 - [ ] Add CTI and other Cyber Security Fields
