@@ -58,8 +58,8 @@
 	- [TCM Practical Windows Forensics](https://academy.tcm-sec.com/p/practical-windows-forensics)
 	- [SpecterOps Adversary Tactics Detection](https://specterops.io/training/adversary-tactics-detection/)
 	- [Zero2Auto](https://courses.zero2auto.com/)
-	- [Attack And Defense O365](https://training.xintra.org/attacking-and-defending-azure-m365)
-	- [AWS Academy](https://aws.amazon.com/training/awsacademy/)
+	
+	
 
 ### Detection Engineering
 
@@ -68,11 +68,11 @@
 ## Cloud Security
 
 ### Azure
-
+- [Attack And Defense O365](https://training.xintra.org/attacking-and-defending-azure-m365)
 ### GCP
 
 ### AWS
-
+- [AWS Academy](https://aws.amazon.com/training/awsacademy/)
 ## Labs
 
 ### Blue Team
