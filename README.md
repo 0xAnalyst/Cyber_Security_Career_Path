@@ -1,72 +1,51 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License][license-shield]][license-url]
 
 
 
 
 <div align="center">
-<h3 align="center">Cyber Security Career Path</h3>
+<h1>Cyber Security Career Path</h1>
+  <p>
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Request a training to be added</a>
   </p>
-<img width="2020" alt="Cyber Security Career PathV01" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/c63d0227-03ba-4f8c-a743-392ba3a3f40a">
-
+  <img width="2020" alt="Cyber Security Career Path - V0.1" src="https://mazin.s3.amazonaws.com/public/fa8d0ef0-4828-464e-8a6c-ec0f9faf559e/Cyber Security Career Path.png">
 </div>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## 🔎 About the Project
 
-This repo contains only quality verified training material/courses/labs that helps you establish and advance your cyber career.
-## Roadmap
+The Cyber Security Career Path repository contains quality verified training material/courses/labs that helps you establish and advance your cyber security career based on different tracks. It has been vetted by several cyber security professionals and contribution is publicly open to everyone.
+
+
+## 🎯 Roadmap
 
 - [ ] Add CTI and other Cyber Security Fields
-- [ ] Divide the repo into different categories 
+- [ ] Divide the repo into different categories
 
 See the [open issues](https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues) for a full list of proposed features (and known issues).
 
 
 
+## 📦 Contribution
 
-<!-- CONTRIBUTING -->
-## Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contribution you make is **greatly appreciated**.
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also open an issue with the label "enhancement".
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+## 📄 License
 
-<!-- LICENSE -->
-## License
+Distributed under the GLP-3 License. See `LICENSE.txt` for more information.
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []() https://github.com/
+* [@mazen160](https://github.com/mazen160)
+* [@Sam0x90](https://github.com/Sam0x90)
 
 
 
@@ -98,6 +77,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
 
 
