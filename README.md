@@ -13,7 +13,7 @@
   <p>
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Request a training to be added</a>
   </p>
-  <img width="2020" alt="Cyber Security Career Path - V0.1" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/c63d0227-03ba-4f8c-a743-392ba3a3f40a">
+  <img width="2020" alt="Cyber Security Career Path - V0.1" src="https://mazin.s3.amazonaws.com/public/fa8d0ef0-4828-464e-8a6c-ec0f9faf559e/Cyber Security Career Path.png">
 </div>
 
 
@@ -38,7 +38,7 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also open an issue with the label "enhancement".
 
-## License
+## 📄 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
