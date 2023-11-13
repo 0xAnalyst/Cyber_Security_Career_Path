@@ -1,21 +1,23 @@
 # Cyber Security Career Path
 
-## Red Team, Penetration Testing and Exploit Dev
+## Red Team, Penetration Testing and Exploit Development
 
 ### Cloud Penetration Testing
+
 - Methodologies
 	- [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md)
-- Subtopic 2
-- Subtopic 3
+
 
 ### Revere Engineering and Exploit Development
+
 - [Pwn.College](https://pwn.college/)
 - [OST2](https://p.ost2.fyi/)
 - [OSRE](https://exploitation.ashemery.com/)
 - [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
-- 
+
 
 ### Web Application Penetration Testing
+
 - [Web Security Academy](https://portswigger.net/web-security)
 - [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 - [PentesterAcademy](https://pentesteracademy.com/course?id=5)
@@ -23,6 +25,7 @@
 - [Real World Bug Hunting](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG/ref=sr_1_1?keywords=Real-World-Bug-Hunting-Field-Hacking-ebook&qid=1697571168&sr=8-1)
 
 ### Penetration Testing
+
 - Must-read resources
 	- [Conti Pentester Guide](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak)
 	- [hacktricks](https://book.hacktricks.xyz/welcome/readme)
@@ -39,12 +42,12 @@
 
 ## Blue Team and Security Operations
 
-### Overall
+### General
 - [Security Blue Team](https://www.securityblue.team/training)
 - [TryHackMe Cyber Defense](https://tryhackme.com/path/outline/blueteam)
 - [Certified CyberDefender](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/)
 - [Essential Basics](https://blueteamcc.j2h2.io/)
-- Linda BlueTeam [Training](https://www.youtube.com/watch?v=Bt5fh3wQUAQ&list=PLBf0hzazHTGNcIS_dHjM2NgNUFMW1EZFx&index=1) Series
+- [Linda BlueTeam Training Series](https://www.youtube.com/watch?v=Bt5fh3wQUAQ&list=PLBf0hzazHTGNcIS_dHjM2NgNUFMW1EZFx&index=1)
 - [MITRE MAD](https://mad-certified.mitre-engenuity.org/group/416659)
 
 ### DFIR - Digital Forensics & Incident Response
@@ -76,7 +79,7 @@
 ## Labs
 
 ### Blue Team
-- Overall
+- General
 	- [BlueTeamLabsOnline](https://blueteamlabs.online/)
 	- [TryHackme](https://tryhackme.com/)
 	- [Let's Defend](https://letsdefend.io/)
@@ -87,7 +90,7 @@
 	- [AceResponder](https://www.aceresponder.com/)
 
 ### Red Team
-- Overall
+- General
 	- [TryHackme](https://tryhackme.com/)
 
 # Template
@@ -95,5 +98,5 @@
 ## Topic (Blue Team, Cloud, Labs, etc.)
 
 ### Subtopic (Cloud/Azure, Labs/Red Team, Pentest/Malware Dev, etc.)
-- OPTIONAL sub-subtopic (Labs/Red Team/Overall, Labs/Blue Team/DFIR-specific, etc.)
+- OPTIONAL sub-subtopic (Labs/Red Team/General, Labs/Blue Team/DFIR-specific, etc.)
 	- [Name_of_training_with_hyperlink](https://example.com/)
