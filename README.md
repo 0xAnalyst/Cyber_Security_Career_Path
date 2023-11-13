@@ -42,10 +42,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Distributed under the GLP-3 License. See `LICENSE.txt` for more information.
 
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []() https://github.com/
+* [@mazen160](https://github.com/mazen160)
+* [@Sam0x90](https://github.com/Sam0x90)
 
 
 
