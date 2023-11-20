@@ -22,6 +22,7 @@
 ## 🔎 About the Project
 
 The Cyber Security Career Path repository contains quality verified training material/courses/labs that helps you establish and advance your cyber security career based on different tracks. It has been vetted by several cyber security professionals and contribution is publicly open to everyone.
+The most update version of this project can be found here https://xmind.works/share/KXPMChx1 
 
 
 ## 🎯 Roadmap
