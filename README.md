@@ -13,6 +13,7 @@
   <p>
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Request a training to be added</a>
   </p>
+<img width="2020" alt="Cyber Security Career Path-Cyber Security Career Path" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/16ce8b3f-6e66-4295-a13a-38f287216b98">
 
 </div>
 
