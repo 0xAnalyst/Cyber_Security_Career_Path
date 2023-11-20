@@ -13,7 +13,7 @@
   <p>
     <a href="https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues">Request a training to be added</a>
   </p>
-<img width="2020" alt="Cyber Security Career Path-Cyber Security Career Path" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/assets/893075/16ce8b3f-6e66-4295-a13a-38f287216b98">
+<img width="2020" alt="Cyber Security Career Path-Cyber Security Career Path" src="https://github.com/0xAnalyst/Cyber_Security_Career_Path/blob/main/roadmap/Cyber%20Security%20Career%20Path.png">
 
 </div>
 
@@ -27,7 +27,7 @@ The most updated version of this project can be found here https://xmind.works/s
 
 ## 🎯 Roadmap
 
-- [ ] Add CTI and other Cyber Security Fields
+- [x] Add CTI and other Cyber Security Fields
 - [ ] Divide the repo into different categories
 
 See the [open issues](https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues) for a full list of proposed features (and known issues).
