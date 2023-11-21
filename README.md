@@ -28,7 +28,9 @@ The most updated version of this project can be found here https://xmind.works/s
 ## 🎯 Roadmap
 
 - [x] Add CTI and other Cyber Security Fields
-- [ ] Divide the repo into different categories
+- [x] Add Threat Hunting and Vuln Research
+- [ ] Divide the repo into different categories (per $, per maturity level)
+- [ ] Add specific section for Active Directory
 
 See the [open issues](https://github.com/0xAnalyst/Cyber_Security_Career_Path/issues) for a full list of proposed features (and known issues).
 
